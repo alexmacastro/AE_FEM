@@ -1,4 +1,6 @@
-# AE_FEM
+# AE_FEM 
+
+Basados en Python 2.7
 
 Análisis de Estructuras
 
